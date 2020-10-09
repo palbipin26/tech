@@ -150,9 +150,9 @@ nav {
     .cta-add{
         margin: 10px;
     }
-    .cover{
-        display: flex;
-        justify-content: center;
+     .cover img{
+        height: 50vh;
+        margin-left: 30px;
     }
 
 
