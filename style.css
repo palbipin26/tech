@@ -134,7 +134,7 @@ nav {
     }
 }
 
-@media screen and (max-width:362px){
+@media screen and (max-width:360px){
     nav{
         position: relative;
         margin-left: 70px;
@@ -150,5 +150,10 @@ nav {
     .cta-add{
         margin: 10px;
     }
+    .cover{
+        display: flex;
+        justify-content: center;
+    }
+
 
 }
